@@ -9,3 +9,19 @@ body {
 .balsamiq-font {
     font-family: 'Balsamiq Sans', cursive;
 }
+
+.no-border {
+    border: none;
+}
+
+.secondary-backgound {
+    background-color: #001a23;
+}
+
+.shadow {
+    box-shadow: 0px 2px 9px 2px rgba(0,0,0,0.75);
+}
+
+.primary-link {
+    color: #f71735;
+}
