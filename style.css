@@ -1,3 +1,11 @@
+body {
+    background-color: #f2f4f6;
+}
+
 .indie-font {
     font-family: 'Indie Flower', cursive;
+}
+
+.balsamiq-font {
+    font-family: 'Balsamiq Sans', cursive;
 }
